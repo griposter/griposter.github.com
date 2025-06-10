@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Griposter Blog Site Haritası</title>
+  <link href="https://griposter.github.io/atom.xml" rel="self"/>
+  <updated>2025-06-10T05:31:13Z</updated>
+  <id>tag:griposter.github.io,2025:/</id>
+
+  <entry>
+    <title>Ana Sayfa</title>
+    <link href="https://griposter.github.io/"/>
+    <id>tag:griposter.github.io,2025:https://griposter.github.io/</id>
+    <updated>2025-06-10T05:31:13Z</updated>
+    <summary>Griposter'ın ana sayfası.</summary>
+  </entry>
+
+  <entry>
+    <title>SEO Yardım Sayfası</title>
+    <link href="https://griposter.github.io/seo-yardim.html"/>
+    <id>tag:griposter.github.io,2025:https://griposter.github.io/seo-yardim.html</id>
+    <updated>2025-06-10T05:31:13Z</updated>
+    <summary>SEO yardım ve kaynaklar sayfası.</summary>
+  </entry>
+
+</feed>
