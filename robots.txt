@@ -3,4 +3,4 @@ Allow: /
 Sitemap: https://griposter.github.io/sitemap-yeni.xml
 Sitemap: https://griposter.github.io/sitemap.xml
 Sitemap: https://griposter.github.io/sitemap.txt
-Sitemap: https://griposter.github.io/atom.xml
+Disallow: /atom.xml
